@@ -72,6 +72,15 @@ section {
         font-size: 0.8rem;
     }    
 
+    a {
+        text-decoration: none;
+        color: var(--color-gray-950);
+    }
+
+    a:hover {
+        color: var(--color-yellow);
+    }
+
     h1 {
         font-size: 1.5rem;
         padding: 15px 0px;
