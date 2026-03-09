@@ -1,5 +1,28 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    line-height: 1;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    /* background-color: aqua; */
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section {
+    /* background-color: darkseagreen; */
+    border: 1px solid black;
+}
 
 footer { 
+    /* background-color: burlywood; */
     font-size: 11px; 
     text-align: center; 
 }
