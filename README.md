@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/solloc/frontend-mentor-blog-preview-card-main](https://github.com/solloc/frontend-mentor-blog-preview-card-main)
+- Live Site URL: [solloc.github.io/frontend-mentor-blog-preview-card-main](https://solloc.github.io/frontend-mentor-blog-preview-card-main/)
 
 ## My process
 
